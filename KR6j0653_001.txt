@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:37:08.375015
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:17
 #+TITLE: 權現金色迦那婆底九目天法
 #+PROPERTY: CBETA_ID X02n0185
 #+PROPERTY: ID KR6j0653
